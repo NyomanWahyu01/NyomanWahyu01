@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Guys I'm I Nyoman Wahyu 👋
+
+![InyomanWahyu](img/Banner%20GitHub.jpeg)
 
 <!--
 **NyomanWahyu01/NyomanWahyu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **@wpucourse**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) framework
+
+![happy bady](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0aXh6NXMxOHlybmF5YnZ4dG41aDY3ZjBpazhqazB1OWR5aDYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJssvTF16urPfizSVy/giphy.gif)
