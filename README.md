@@ -50,9 +50,10 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Adobe Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Balsamiq Wireframes](https://img.shields.io/badge/Balsamiq%20Wireframes-FF4C2B?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Balsamiq Wireframes](https://img.shields.io/badge/Balsamiq%20Wireframes-FF4C2B?style=for-the-badge&logo=balsamiq&logoColor=white)
+
 
 
 ---
