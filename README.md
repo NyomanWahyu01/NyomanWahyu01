@@ -2,15 +2,15 @@
 
 ![InyomanWahyu](img/github-Benner.png)
 
-### 👋 Hello Guys, I'm I Nyoman Wahyu Trisna Winda S.Kom 😁
+### 👋 Halo semuanya! Saya I Nyoman Wahyu Trisna Winda S.Kom 😁
 
-- 🔭 I’m currently working on **web-based applications and full-stack projects**
-- 🌱 I’m currently learning **PHP, REST API integration, and advanced JavaScript**
-- 👯 I’m looking to collaborate on **open source frontend/backend projects**
-- 🤔 I’m looking for help with **performance optimization and clean architecture**
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL, and web UI/UX design**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/i-nyoman-wahyu) | Email: inyomanwahyu123.@gmail.com**
-- ⚡ Fun fact: _I love building beautiful UIs almost as much as I love badminton 🏸_
+- 🔭 Lagi sibuk ngulik dan ngerjain berbagai aplikasi web, kadang juga nyemplung ke project full-stack.
+- 🌱 Sekarang lagi asik belajar PHP, ngoprek REST API, sama ngedalami JavaScript biar makin jago.
+- 👯 Kalau ada yang mau kolaborasi di project open source, frontend atau backend, ayo banget!
+- 🤔 Lagi pengen banget dapet insight soal optimasi performa dan gimana bikin arsitektur aplikasi yang rapi dan enak di-maintain.
+- 💬 Ngobrol aja kalau mau tanya-tanya soal HTML, CSS, JavaScript, PHP, MySQL, atau desain UI/UX web. Siapa tau bisa saling sharing!
+- 📫 Kalau mau ngobrol atau kerja bareng, langsung aja scroll ke bawah ke bagian **[📱 Contact](#contact)**!
+- ⚡ Fun fact: Aku selalu semangat ngoding, apalagi kalau ditemani secangkir kopi dan playlist lagu favorit. Oh ya, main bulu tangkis juga jadi pelarian paling asik kalau lagi penat sama kode! 🏸
 
 ---
 
@@ -63,26 +63,163 @@
 
 ---
 
-### 👁️‍🗨️ Profile Visitors
-
-![Visitors](https://komarev.com/ghpvc/?username=NyomanWahyu01&style=for-the-badge)
-
----
-
-🚀 Featured Projects
-
-<table> <tr> <td> <h4>📊 Sistem Pendaftaran Anggota Baru Badminton Smapul Club Berbasis Web</h4> <p><strong>Deskripsi:</strong> Aplikasi manajemen data mahasiswa menggunakan PHP, MySQL, dan Bootstrap. Mendukung fitur CRUD, validasi, dan export data.</p> <p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> </p> 🔗 <a href="https://github.com/NyomanWahyu01/Project-Bsc" target="_blank">View Repository</a> </td> </tr> <tr> <td> <h4>🛒 Toko Orange - Nyoman & Dede</h4> <p><strong>Deskripsi:</strong> Website toko sepatu berbasis web yang menyediakan fitur katalog produk, keranjang belanja, checkout, dan manajemen pesanan. Dibangun menggunakan PHP, CSS, HTML, dan JavaScript.</p> <p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> </p> 🔗 <a href="https://github.com/NyomanWahyu01/Online-Shop" target="_blank">View Repository</a> </td> </tr> <tr> <td> <h4>📝 Survai Kepuasan Masyarakat</h4> <p><strong>Deskripsi:</strong> Aplikasi survei kepuasan masyarakat untuk kantor Mal Pelayanan Publik Pangkep. Memungkinkan pengguna mengisi survei secara online dan admin dapat mengelola serta menganalisis hasil survei. Dibangun dengan JavaScript, CSS, PHP, Tailwind CSS, dan Bootstrap.</p> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" /> </p> 🔗 <a href="https://github.com/NyomanWahyu01/Survai-MPP" target="_blank">View Repository</a> </td> </tr> </table>
-
----
-
 ### 🎉 Fun Time
 
 ![happy bady](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU0aXh6NXMxOHlybmF5YnZ4dG41aDY3ZjBpazhqazB1OWR5aDYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJssvTF16urPfizSVy/giphy.gif)
 
 > _"Code like a champion. Smash like a pro."_ – Me 😄
 
+---
+
+### 🏅 Sertifikat & Penghargaan
+
+- 🐍 [**Sertifikat Pemrograman Python**](https://drive.google.com/file/d/15JUzAltgReKbkBj3z64BIffQWWOxgdyz/view?usp=sharing)
+- 🤖 [**Sertifikat Seminar Coding Dengan ChatGPT**](https://drive.google.com/file/d/1iovaa-oRwMReVXAa_B-32kH7VQMmZcSi/view?usp=sharing)
+- 🚀 [**Sertifikat MySkill Short Class**](https://drive.google.com/file/d/18akCujATqU-LsqgWph5kZi3KwvgC7lrG/view?usp=sharing)
+- 🏢 [**Sertifikat KKN Mal Pelayanan Publik Pangkep**](https://drive.google.com/file/d/1owl-cxYGbX6rcWhHfJCmIJFJaxWiz0Ra/view?usp=sharing)
+- 🏭 [**Sertifikat Magang Industri MBKM PTSP**](https://drive.google.com/file/d/1restqDeQb5V4mZS-Svc-xxSSUAqajZGb/view?usp=sharing)
+- 🏅 [**Sertifikat VSGA Operator Madya**](https://drive.google.com/file/d/1jbZSGg4zBg2iKOthR71rGHJ06m0vUIzI/view?usp=sharing)
+
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <h4>🛒 Toko Orange - Nyoman & Dede</h4>
+      <p><strong>Deskripsi:</strong> Website toko sepatu berbasis web yang menyediakan fitur katalog produk, keranjang belanja, checkout, dan manajemen pesanan. Dibangun menggunakan PHP, CSS, HTML, JavaScript, MySQL, dan Bootstrap.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+      </p>
+      <a href="https://namadomain.com/tokoorange-demo" target="_blank"><img src="https://img.shields.io/badge/Lihat%20Demo-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+      <a href="https://github.com/NyomanWahyu01/Online-Shop" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📝 Survai Kepuasan Masyarakat di Mal Pelayanan Publik</h4>
+      <p><strong>Deskripsi:</strong> Aplikasi survei kepuasan masyarakat untuk Mal Pelayanan Publik Pangkep. Pengguna dapat mengisi survei online, admin dapat mengelola dan menganalisis hasil survei. Dibangun dengan JavaScript, CSS, PHP, Tailwind CSS, Bootstrap, MySQL, dan HTML5.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      </p>
+      <a href="https://namadomain.com/survai-mpp-demo" target="_blank"><img src="https://img.shields.io/badge/Lihat%20Demo-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+      <a href="https://github.com/NyomanWahyu01/Survai-MPP" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🏸 Pendaftaran Anggota Baru Badminton Smapul Club Berbasis Web</h4>
+      <p><strong>Deskripsi:</strong> Aplikasi pendaftaran anggota baru untuk klub badminton, mendukung fitur CRUD data anggota, validasi, dan export data. Dibangun dengan PHP, MySQL, Bootstrap, Tailwind CSS, HTML5, CSS, dan JavaScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://namadomain.com/project-bsc-demo" target="_blank"><img src="https://img.shields.io/badge/Lihat%20Demo-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+      <a href="https://github.com/NyomanWahyu01/Project-Bsc" target="_blank"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📄 Download CV
+
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](link-ke-cv-anda.pdf)
+
+---
+
+### 👁️ Statistik Pengunjung
+
+![Visitors](https://komarev.com/ghpvc/?username=NyomanWahyu01&style=for-the-badge)
+
+---
+
+### ❓ FAQ
+
+- 💡 **Q: Berapa lama pengerjaan website?**  
+  A: Rata-rata 1-2 minggu, tergantung fitur dan revisi.
+
+- 🔄 **Q: Apakah bisa revisi desain?**  
+  A: Tentu! Revisi minor gratis. Untuk revisi besar, maksimal 5 kali revisi agar proses tetap efisien dan hasil tetap optimal.
+
+- 🌐 **Q: Bisa bantu urus domain & hosting?**  
+  A: Bisa banget, tinggal diskusi aja kebutuhanmu.
+
+- 🗣️ **Q: Apakah bisa konsultasi dulu sebelum mulai project?**  
+  A: Sangat bisa! Konsultasi awal gratis, biar kebutuhan dan konsepnya jelas dulu.
+
+- 💳 **Q: Bagaimana sistem pembayaran project?**  
+  A: Umumnya DP 30% di awal, sisanya setelah project selesai dan disetujui.
+
+---
+
+### Tips Implementasi untuk Website (HTML/JS/CSS)
+
+> Bagian ini berisi tips dan contoh kode yang bisa kamu gunakan di project website-mu (bukan di README GitHub). Silakan copy-paste ke file HTML, CSS, atau JS milikmu!
+
+#### 🌗 Dark/Light Mode Toggle
+
+```html
+<!-- Tambahkan di <body> website Anda -->
+<button onclick="document.body.classList.toggle('dark')">Toggle Dark/Light</button>
+<!-- Tambahkan CSS untuk .dark sesuai kebutuhan -->
+```
+
+#### ✨ Animasi/Interaktif
+
+```css
+.button-anim {
+  transition: background 0.3s;
+}
+.button-anim:hover {
+  background: #ff9800;
+  color: #fff;
+}
+```
+
+#### 📬 Formulir Kontak Langsung
+
+```html
+<form action="https://formspree.io/f/yourformid" method="POST">
+  <input type="text" name="name" placeholder="Nama" required>
+  <input type="email" name="email" placeholder="Email" required>
+  <textarea name="message" placeholder="Pesan" required></textarea>
+  <button type="submit">Kirim</button>
+</form>
+```
+
+---
+
+### 🚀 Butuh Jasa Graphic Design atau Website?
+
+Selain ngoding, aku juga siap bantu kamu yang butuh desain grafis—mulai dari logo, poster, feed Instagram, sampai kebutuhan branding lainnya. Mau bikin website untuk bisnis, portofolio, atau toko online? Bisa banget!
+
+Langsung aja kontak aku, kita ngobrolin ide dan kebutuhan kamu. Siap bantu dari konsep sampai jadi, biar hasilnya sesuai harapan dan pastinya keren!
+
+<a id="contact"></a>
 ### 📱 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inyomanwahyu123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281234567890)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-nyoman-wahyu)
+
+**© 2025 I Nyoman Wahyu Trisna Winda. All rights reserved.**
+
