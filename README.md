@@ -73,12 +73,12 @@
 
 ### 🏅 Sertifikat & Penghargaan
 
-- 🐍 [**Sertifikat Pemrograman Python**](https://drive.google.com/file/d/15JUzAltgReKbkBj3z64BIffQWWOxgdyz/view?usp=sharing)
-- 🤖 [**Sertifikat Seminar Coding Dengan ChatGPT**](https://drive.google.com/file/d/1iovaa-oRwMReVXAa_B-32kH7VQMmZcSi/view?usp=sharing)
-- 🚀 [**Sertifikat MySkill Short Class**](https://drive.google.com/file/d/18akCujATqU-LsqgWph5kZi3KwvgC7lrG/view?usp=sharing)
-- 🏢 [**Sertifikat KKN Mal Pelayanan Publik Pangkep**](https://drive.google.com/file/d/1owl-cxYGbX6rcWhHfJCmIJFJaxWiz0Ra/view?usp=sharing)
-- 🏭 [**Sertifikat Magang Industri MBKM PTSP**](https://drive.google.com/file/d/1restqDeQb5V4mZS-Svc-xxSSUAqajZGb/view?usp=sharing)
-- 🏅 [**Sertifikat VSGA Operator Madya**](https://drive.google.com/file/d/1jbZSGg4zBg2iKOthR71rGHJ06m0vUIzI/view?usp=sharing)
+- 🐍 [**Sertifikat Pemrograman Python - Special Skill**](https://drive.google.com/file/d/15JUzAltgReKbkBj3z64BIffQWWOxgdyz/view?usp=sharing)
+- 🤖 [**Sertifikat Seminar Coding Dengan ChatGPT - Qwords**](https://drive.google.com/file/d/1iovaa-oRwMReVXAa_B-32kH7VQMmZcSi/view?usp=sharing)
+- 🚀 [**Sertifikat Brand Identity Design - MySkill Short Class**](https://drive.google.com/file/d/18akCujATqU-LsqgWph5kZi3KwvgC7lrG/view?usp=sharing)
+- 🏢 [**Sertifikat KKN Operator OSS-RBA - Mal Pelayanan Publik Pangkep**](https://drive.google.com/file/d/1owl-cxYGbX6rcWhHfJCmIJFJaxWiz0Ra/view?usp=sharing)
+- 🏭 [**Sertifikat Magang Industri - MBKM PTSP Pangkep**](https://drive.google.com/file/d/1restqDeQb5V4mZS-Svc-xxSSUAqajZGb/view?usp=sharing)
+- 🏅 [**Sertifikat Operator Komputer Madya - VSGA**](https://drive.google.com/file/d/1jbZSGg4zBg2iKOthR71rGHJ06m0vUIzI/view?usp=sharing)
 
 
 ---
@@ -142,7 +142,7 @@
 
 ### 📄 Download CV
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](link-ke-cv-anda.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1dtsnEkmGVh8uDE_XmcCOMxtkBqEiT_t4/view?usp=sharing)
 
 ---
 
@@ -173,7 +173,7 @@
 
 ### Tips Implementasi untuk Website (HTML/JS/CSS)
 
-> Bagian ini berisi tips dan contoh kode yang bisa kamu gunakan di project website-mu (bukan di README GitHub). Silakan copy-paste ke file HTML, CSS, atau JS milikmu!
+> Bagian ini berisi tips dan contoh kode yang bisa kamu gunakan di project website-mu (bukan di README GitHub). Silakan copy-paste ke file HTML, CSS, atau JavaScript milikmu!
 
 #### 🌗 Dark/Light Mode Toggle
 
