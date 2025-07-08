@@ -4,13 +4,15 @@
 
 ### 👋 Halo semuanya! Saya I Nyoman Wahyu Trisna Winda S.Kom 😁
 
-- 🔭 Lagi sibuk ngulik dan ngerjain berbagai aplikasi web, kadang juga nyemplung ke project full-stack.
+;Salam Titik Koma🙌
+
 - 🌱 Sekarang lagi asik belajar PHP, ngoprek REST API, sama ngedalami JavaScript biar makin jago.
-- 👯 Kalau ada yang mau kolaborasi di project open source, frontend atau backend, ayo banget!
-- 🤔 Lagi pengen banget dapet insight soal optimasi performa dan gimana bikin arsitektur aplikasi yang rapi dan enak di-maintain.
-- 💬 Ngobrol aja kalau mau tanya-tanya soal HTML, CSS, JavaScript, PHP, MySQL, atau desain UI/UX web. Siapa tau bisa saling sharing!
-- 📫 Kalau mau ngobrol atau kerja bareng, langsung aja scroll ke bawah ke bagian **[📱 Contact](#contact)**!
-- ⚡ Fun fact: Aku selalu semangat ngoding, apalagi kalau ditemani secangkir kopi dan playlist lagu favorit. Oh ya, main bulu tangkis juga jadi pelarian paling asik kalau lagi penat sama kode! 🏸
+- 🔭 Lagi sibuk ngulik dan ngerjain berbagai aplikasi web, kadang juga nyemplung ke project full-stack.
+- 🤔 Lagi pengen banget dapet insight soal optimasi performa dan gimana bikin arsitektur aplikasi yang rapi dan enak di-maintain📊
+- 💬 Ngobrol aja kalau mau tanya-tanya soal HTML, CSS, JavaScript, PHP, MySQL, atau desain UI/UX web. Siapa tau bisa saling sharing dan kerja sama bareng untuk buat Project 🙏
+- 👯 Kalau ada yang mau kolaborasi di project open source, frontend atau backend, ayo banget😊
+- 📫 Kalau mau ngobrol atau kerja bareng, silakan klik **[📱 Contact](#contact)** yah Guys 😁
+- ⚡ Fun fact: Aku selalu semangat ngoding, apalagi kalau ditemani secangkir kopi dan playlist lagu favorit di Spotify dan YouTube. Oh ya, Olahraga Bulu Tangkis dan Lari juga jadi pelarian paling asik kalau lagi penat sama Coding 😂! 🏸
 
 ---
 
@@ -30,14 +32,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ---
 
 ### 🤖 Artificial Intelligence
 
-![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHuub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-343541?style=for-the-badge&logo=vscodium&logoColor=white)
+
 
 ---
 
@@ -47,6 +52,8 @@
 ![Adobe Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Balsamiq Wireframes](https://img.shields.io/badge/Balsamiq%20Wireframes-FF4C2B?style=for-the-badge&logo=balsamiq&logoColor=white)
+
 
 ---
 
