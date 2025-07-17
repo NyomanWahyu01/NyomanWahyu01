@@ -96,7 +96,7 @@
 <table>
   <tr>
     <td>
-      <h4>🛒 Toko Orange - Nyoman & Dede</h4>
+      <h4>🛒 Toko Orange </h4>
       <p><strong>Deskripsi:</strong> Website toko sepatu berbasis web yang menyediakan fitur katalog produk, keranjang belanja, checkout, dan manajemen pesanan. Dibangun menggunakan PHP, CSS, HTML, JavaScript, MySQL, dan Bootstrap.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
